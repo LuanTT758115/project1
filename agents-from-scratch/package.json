@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@langchain/core": "^1.0.0-alpha.7",
+    "@langchain/openai": "^1.0.0-alpha.3",
+    "langchain": "^1.0.0-alpha.9"
+  }
+}
